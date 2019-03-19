@@ -10,14 +10,14 @@ This journal club aims to provide a forum for discussing neurons, brains, and be
 
 ## 3. 该Github Repository用途
 
-方便大家了解并通过commit安排Jounal Club的日程表，上传、阅读论文pdf。
+方便大家了解并通过commit安排Jounal Club的**日程表**，上传、阅读**论文pdf**。
 
 
 ### 3.1 Schedule
 
 里面给出Journal Club的日期，主讲人，paper信息。大家可以自行挑选合适的时间来当主讲人。
 
-格式: 2019/03/22, 李昂, "Wei X X, Stocker A A. Efficient coding provides a direct link between prior and likelihood in perceptual Bayesian inference[C]//Advances in neural information processing systems. 2012: 1304-1312."
+**格式**: 2019/03/22, 李昂, "Wei X X, Stocker A A. Efficient coding provides a direct link between prior and likelihood in perceptual Bayesian inference[C]//Advances in neural information processing systems. 2012: 1304-1312."
 
 
 ### 3.2 Suggested paper
