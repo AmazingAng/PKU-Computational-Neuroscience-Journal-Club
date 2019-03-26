@@ -1,3 +1,7 @@
+Polania R, Woodford M, Ruff C C. Efficient coding of subjective value[J]. Nature neuroscience, 2019, 22(1): 134.
+
+Turner M H, Giraldo L G S, Schwartz O, et al. Stimulus-and goal-oriented frameworks for understanding natural vision[J]. Nature neuroscience, 2018: 1.
+
 Lim S., McKee, J. L., Woloszyn, L., Amit, Y., Freedman, D. J., Sheinberg, D. L., and Brunel, N. (2015). Inferring learning rules from distributions of firing rates in cortical neurons. Nat Neurosci http://dx.doi.org/10.1038/nn.4158 
 
 Extracting Low-dimensional Latent Structure From Time Series in the Presence of Delays Karthik C. Lakshmanan, Patrick T Sadtler, Elizabeth C Tyler-Kabara, Aaron P Batista, and Byron M. Yu http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00759
