@@ -1,3 +1,5 @@
+Recanatesi, S., Farrell, M., Lajoie, G., Deneve, S., Rigotti, M., & Shea-Brown, E. (2018). Signatures and mechanisms of low-dimensional neural predictive manifolds. BioRxiv, 471987. https://doi.org/10.1101/471987 (suggested by Gengshuo Tian)
+
 Brette, R. (2019). Is coding a relevant metaphor for the brain?. Behavioral and Brain Sciences, 1-44. https://www.biorxiv.org/content/biorxiv/early/2018/07/13/168237.full.pdf (suggested by Gengshuo Tian)
 
 Polania R, Woodford M, Ruff C C. Efficient coding of subjective value[J]. Nature neuroscience, 2019, 22(1): 134.
