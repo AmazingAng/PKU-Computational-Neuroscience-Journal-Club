@@ -6,9 +6,17 @@ Date, Presenter, Paper
 
 2019/04/05 清明节假期
 
-2019/04/12
+2019/04/12, 田耕硕，"Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987." & "Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning"
 
 2019/04/19
 
 2019/04/26
+
+2019/04/26
+
+2019/05/03
+
+2019/05/10
+
+2019/05/17
 
