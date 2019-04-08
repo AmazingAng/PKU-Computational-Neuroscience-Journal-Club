@@ -8,15 +8,13 @@ Date, Presenter, Paper
 
 2019/04/12, 田耕硕，"Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987." & "Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning"
 
-2019/04/19
+2019/04/19, TBD
 
-2019/04/26
+2019/04/25, 接近年假+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
 
-2019/04/26
+2019/05/03, 腾天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
-2019/05/03
+2019/05/10, TBD
 
-2019/05/10
-
-2019/05/17
+2019/05/17, TBD
 
