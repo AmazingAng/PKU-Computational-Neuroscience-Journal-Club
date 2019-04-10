@@ -6,7 +6,7 @@ Date, Presenter, Paper
 
 2019/04/05 清明节假期
 
-2019/04/12, 田耕硕，"Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987." & "Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning"
+2019/04/12, 田耕硕，"Kanitscheider I, Fiete I. Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems[C]//Advances in Neural Information Processing Systems. 2017: 4529-4538.", "Kanitscheider I, Fiete I. Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning[J]. bioRxiv, 2017: 231159.", & "Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987."
 
 2019/04/19, TBD
 
