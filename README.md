@@ -1,22 +1,21 @@
 # PKU Computational Neuroscience Journal Club
 
-## 1. Mission Statement
+## 1. Schedule
 
-This journal club aims to provide a forum for discussing neurons, brains, and behavior among people with diverse quantitative and neurobiology backgrounds. Weekly meetings will focus on a paper relevant to a theoretical understanding of some neuroscientific problem or system. Graduate students and postdocs are especially encouraged to attend and propose/present papers. Appropriate papers present neural data, theoretical models, foundational principles for computation, new statistical, mathematical, or machine learning methods, etc.
-
-## 2. Schedule
-
-2019/04/12, 田耕硕，"Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987." & "Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning"
+2019/04/12, 田耕硕，"Kanitscheider I, Fiete I. Training recurrent networks to generate hypotheses about how the brain solves hard navigation problems[C]//Advances in Neural Information Processing Systems. 2017: 4529-4538.", "Kanitscheider I, Fiete I. Emergence of dynamically reconfigurable hippocampal responses by learning to perform probabilistic spatial reasoning[J]. bioRxiv, 2017: 231159.", & "Recanatesi S, Farrell M, Lajoie G, et al. Signatures and mechanisms of low-dimensional neural predictive manifolds[J]. bioRxiv, 2018: 471987."
 
 2019/04/19, TBD
 
-2019/04/25, 接近年假+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
+2019/04/25, 接近五一+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
 
-2019/05/03, 腾天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
-## 3. 时间 & 地点
+## 2. 时间 & 地点
 
 每周五 6:30 pm @ 吕志和楼 415.
+
+## 3. Mission Statement
+
+This journal club aims to provide a forum for discussing neurons, brains, and behavior among people with diverse quantitative and neurobiology backgrounds. Weekly meetings will focus on a paper relevant to a theoretical understanding of some neuroscientific problem or system. Graduate students and postdocs are especially encouraged to attend and propose/present papers. Appropriate papers present neural data, theoretical models, foundational principles for computation, new statistical, mathematical, or machine learning methods, etc.
 
 
 ## 4. 该Github Repository用途
