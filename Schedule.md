@@ -14,7 +14,7 @@ Date, Presenter, Paper
 
 2019/05/03, 五一假期
 
-2019/05/10,  腾天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
+2019/05/10,  滕天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
 2019/05/17, TBD
 
