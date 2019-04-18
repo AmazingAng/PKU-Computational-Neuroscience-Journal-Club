@@ -1,6 +1,6 @@
 # PKU Computational Neuroscience Journal Club
 
-## 1. Schedule
+## 1. [Schedule](https://github.com/AmazingAng/PKU-Computational-Neuroscience-Journal-Club/blob/master/Schedule.md)
 
 2019/04/19, 余柳涛, Cayco-Gajic, N. A., & Silver, R. A. (2019). Re-evaluating Circuit Mechanisms Underlying Pattern Separation. Neuron, 101(4), 584–602. https://doi.org/10.1016/j.neuron.2019.01.044
 
