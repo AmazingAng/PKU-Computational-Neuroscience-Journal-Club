@@ -2,9 +2,7 @@
 
 ## 1. [Schedule](https://github.com/AmazingAng/PKU-Computational-Neuroscience-Journal-Club/blob/master/Schedule.md)
 
-2019/04/19, 余柳涛, Cayco-Gajic, N. A., & Silver, R. A. (2019). Re-evaluating Circuit Mechanisms Underlying Pattern Separation. Neuron, 101(4), 584–602. https://doi.org/10.1016/j.neuron.2019.01.044
-
-2019/04/25, 接近五一+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
+2019/05/10, 滕天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
 
 ## 2. 时间 & 地点
