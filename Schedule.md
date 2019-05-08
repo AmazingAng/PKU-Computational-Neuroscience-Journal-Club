@@ -10,11 +10,13 @@ Date, Presenter, Paper
 
 2019/04/19, 余柳涛, Cayco-Gajic, N. A., & Silver, R. A. (2019). Re-evaluating Circuit Mechanisms Underlying Pattern Separation. Neuron, 101(4), 584–602. https://doi.org/10.1016/j.neuron.2019.01.044
 
-2019/04/25, 接近五一+校庆放假，时间改到周四晚上，吴思组组会之后（大约8点）,TBD
+2019/04/25, 假期
 
 2019/05/03, 五一假期
 
 2019/05/10,  滕天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
 2019/05/17, TBD
+
+2019/05/24, 王超名，"Roelfsema P R. Cortical algorithms for perceptual grouping[J]. Annu. Rev. Neurosci., 2006, 29: 203-227." & "Roelfsema P R, Houtkamp R. Incremental grouping of image elements in vision[J]. Attention, Perception, & Psychophysics, 2011, 73(8): 2542-2572."
 
