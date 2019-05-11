@@ -20,3 +20,6 @@ Date, Presenter, Paper
 
 2019/05/24, 王超名，"Roelfsema P R. Cortical algorithms for perceptual grouping[J]. Annu. Rev. Neurosci., 2006, 29: 203-227." & "Roelfsema P R, Houtkamp R. Incremental grouping of image elements in vision[J]. Attention, Perception, & Psychophysics, 2011, 73(8): 2542-2572."
 
+2019/05/31, TBD
+
+2019/06/07, TBD
