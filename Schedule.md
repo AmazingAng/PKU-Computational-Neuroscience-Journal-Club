@@ -16,7 +16,7 @@ Date, Presenter, Paper
 
 2019/05/10,  滕天源， “Wei X X, Stocker A A. Lawful relation between perceptual bias and discriminability[J]. Proceedings of the National Academy of Sciences, 2017, 114(38): 10244-10249.”
 
-2019/05/17, TBD
+2019/05/17, 李昂，"Wang J X, Kurth-Nelson Z, Kumaran D, et al. Prefrontal cortex as a meta-reinforcement learning system[J]. Nature neuroscience, 2018, 21(6): 860.", "Averbeck B B, Costa V D. Motivational neural circuits underlying reinforcement learning[J]. Nature Neuroscience, 2017, 20(4): 505."
 
 2019/05/24, 王超名，"Roelfsema P R. Cortical algorithms for perceptual grouping[J]. Annu. Rev. Neurosci., 2006, 29: 203-227." & "Roelfsema P R, Houtkamp R. Incremental grouping of image elements in vision[J]. Attention, Perception, & Psychophysics, 2011, 73(8): 2542-2572."
 
