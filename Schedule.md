@@ -20,6 +20,8 @@ Date, Presenter, Paper
 
 2019/05/24, 王超名，"Roelfsema P R. Cortical algorithms for perceptual grouping[J]. Annu. Rev. Neurosci., 2006, 29: 203-227." & "Roelfsema P R, Houtkamp R. Incremental grouping of image elements in vision[J]. Attention, Perception, & Psychophysics, 2011, 73(8): 2542-2572."
 
-2019/05/31, TBD
+2019/05/31, 余柳涛，Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior
 
-2019/06/07, TBD
+2019/06/06, 李倩怡，The population dynamics of a canonical cognitive circuit
+
+2019/06/14,TBD
