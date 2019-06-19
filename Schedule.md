@@ -24,4 +24,8 @@ Date, Presenter, Paper
 
 2019/06/06, 李倩怡，The population dynamics of a canonical cognitive circuit
 
-2019/06/14,TBD
+2019/06/14, 中国计算神经学会议，成都
+
+2019/06/21, 田耕硕， Friston K, FitzGerald T, Rigoli F, et al. Active inference: a process theory[J]. Neural computation, 2017, 29(1): 1-49.
+
+
