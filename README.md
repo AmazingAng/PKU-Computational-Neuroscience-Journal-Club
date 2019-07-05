@@ -2,7 +2,7 @@
 
 ## 1. [Schedule](https://github.com/AmazingAng/PKU-Computational-Neuroscience-Journal-Club/blob/master/Schedule.md)
 
-2019/06/21, 田耕硕， Friston K, FitzGerald T, Rigoli F, et al. Active inference: a process theory[J]. Neural computation, 2017, 29(1): 1-49.
+2019/07/05, 刘玲，The neural dynamics of hierarchical Bayesian causal inference in multisensory perception
 
 
 ## 2. 时间 & 地点
